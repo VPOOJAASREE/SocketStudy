@@ -1,3 +1,5 @@
+V. POOJAASREE - B.E(CSE) [212223040147]
+
 # Ex.No:1a  			Study of Socket Programming
 
 ## Aim: 
@@ -35,8 +37,7 @@ To perform a study on Socket Programming
 
 •	Servers create a socket using socket() and bind it to a specific IP address and port using bind().
 •	They then listen for incoming connections with listen() and accept connections with accept().
-•	Once a connection is establi
-•	shed, servers can send and receive data using send() and recv().
+•	Once a connection is established, servers can send and receive data using send() and recv().
 
 ## Client –Server Operations
 
@@ -55,4 +56,4 @@ Socket programming finds applications in various domains, including web developm
 
 
 ## Result:
-Thus the study of Socket Programming Completed Successfully
+Thus the study of Socket Programming Completed Successfully.
